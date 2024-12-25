@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\bin\Debug\net9.0\Classes2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\bin\Debug\net9.0\Classes2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\bin\Debug\net9.0\Classes2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\bin\Debug\net9.0\Classes2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\bin\Debug\net9.0\Classes2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\refint\Classes2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\Classes2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Classes2\obj\Debug\net9.0\ref\Classes2.dll
